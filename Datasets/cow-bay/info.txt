@@ -1,0 +1,23 @@
+Cow Bay OzFlux tower site
+Data from the Cow Bay site, Far North Queensland.
+The Cow Bay flux station is located in the Daintree forest at the Daintree Discovery Centre.
+It was established in December 2008 and is managed by James Cook University.
+
+The Cow Bay flux station is located at the Daintree Discovery Centre, Cow Bay:
+16°14'17.48"S 145°25'37.74"E
+
+The forest is classified as complex mesophyll vine forest, there are 94 species in the core 1Ha, and average tree height is 22m. Elevation of the site is 90m and mean annual precipitation is 3935mm. The Daintree Rainforest is one of the most biodiverse forests in Australia.
+
+The instruments are mounted on a walk-up tourist tower at 35m. Fluxes of heat, water vapour and carbon dioxide are measured using the open-path eddy flux technique. Supplementary measurements above the canopy include temperature, humidity, windspeed, wind direction, rainfall, incoming and reflected shortwave radiation and net radiation.
+
+The early years 2009 - 12 had several data gaps. Shadowing of the radiometric equipment continued to cause artefacts on the radiometers - these can be seen as reduction in downwelling radiation with solar inclination. During 2018 the soil sub-system suffered several hardware failures along with both temperature/humidity sensors creating data gaps.The RIM800 rainfall sensor was removed.
+in 2020 (Covid-19) the tower and flux system was rebuilt and there were a large number of data gaps.
+In 2021 the system suffered hardware failures NR01 (Fld, Flu Jan-April), all temperature/RH sensors failed (HC2S3, HMP45, WXT520) but not at the same time. As part of the rebuild the soil pit was not connected in 2021.
+In 2022 the multiplexer failed for the soil pit. Significant power supply failures in 2022.
+In 2023 10 day data gap in fluxes due to database corruption (7/723 - 17/7/23).
+In 2024 the soil pit was damaged (all sensors) by extensive flooding due to a cyclone.
+
+
+https://data.ozflux.org.au/portal/pub/viewColDetails.jspx?collection.id=1882720&collection.owner.id=100&viewType=anonymous
+
+Citation: Mike Liddell (2013 ) Cow Bay OzFlux tower site OzFlux: Australian and New Zealand Flux Research and Monitoring hdl: 102.100.100/14244

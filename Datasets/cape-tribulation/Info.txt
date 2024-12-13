@@ -1,0 +1,7 @@
+"The instruments are mounted on a crane tower at 45m. Fluxes of heat, water vapour and carbon dioxide are measured using the open-path eddy flux technique. Supplementary measurements above the canopy include temperature, humidity, windspeed, wind direction, rainfall, incoming and reflected shortwave radiation and net radiation. Ground heat flux is only available from late 2015.
+
+There have been multiple hardware failures in recent years creating large data gaps."
+
+https://data.ozflux.org.au/portal/pub/viewColDetails.jspx?collection.id=1882718&collection.owner.id=100&viewType=anonymous
+
+Citation: Mike Liddell (2013 ) Cape Tribulation OzFlux tower site OzFlux: Australian and New Zealand Flux Research and Monitoring hdl: 102.100.100/14242
